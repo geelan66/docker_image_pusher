@@ -1,1 +1,1 @@
-gpustack
+nginx
