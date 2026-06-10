@@ -1,4 +1,6 @@
 nginx
 alpine
 gpustack/gpustack
-nginx:1.31.1-alpine3.23-perl
+ollama
+redis
+mysql
