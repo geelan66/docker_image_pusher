@@ -2,6 +2,4 @@ nginx
 ollama
 opengauss
 mysql
-ollama
 redis
-opengauss
