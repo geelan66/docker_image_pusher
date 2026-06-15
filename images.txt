@@ -1,4 +1,3 @@
-nginx
 ollama
 opengauss
 mysql
