@@ -1,6 +1,5 @@
 nginx
-alpine
-gpustack/gpustack
+mysql
 ollama
 redis
-mysql
+opengauss
