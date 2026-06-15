@@ -1,4 +1,4 @@
 ollama
-opengauss
+opengauss/opengauss:latest
 mysql
 redis
