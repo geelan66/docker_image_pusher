@@ -1,4 +1,4 @@
-ollama
+zhuquelab/aig-server:latest
+zhuquelab/aig-agent:latest
 opengauss/opengauss:latest
-mysql
 redis
