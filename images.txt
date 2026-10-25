@@ -1,4 +1,4 @@
 zhuquelab/aig-server:latest
 zhuquelab/aig-agent:latest
 opengauss/opengauss:latest
-redis
+ollama/ollama
